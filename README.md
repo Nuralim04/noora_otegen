@@ -1,0 +1,2 @@
+# noora_otegen
+QWERTY
